@@ -18,15 +18,12 @@ import NavBar from '@/components/NavBar.vue'
               You will be able to take advantage of services to make your trip best!
             </p>
             <div class="mt-10 flex items-center justify-center gap-x-6">
-              <a
-                class="rounded-md bg-transparent ring-2 ring-white px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-[#39876fe8] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
-                href="#booking"
-              >Get started</a
-              >
+              <a class="rounded-md bg-transparent ring-2 ring-white px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-[#39876fe8] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
+                href="#booking">Get started</a>
 
-              <a class="text-sm font-semibold leading-6 text-white" href=" #"
+              <!-- <a class="text-sm font-semibold leading-6 text-white" href=" #"
               >Learn more <span aria-hidden="true">→</span></a
-              >
+              > -->
             </div>
           </div>
         </div>
@@ -35,6 +32,4 @@ import NavBar from '@/components/NavBar.vue'
   </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
