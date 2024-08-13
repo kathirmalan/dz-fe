@@ -364,7 +364,7 @@ function copyTpClipboardAction() {
                       <legend class="sr-only">Type of Vehicle</legend>
 
                       <div>
-                        <input id="VehicleTypeCAR" v-model="booking.vehicle_type" checked
+                        <input id="VehicleTypeCAR" v-model="booking.vehicle_type"
                           class="peer hidden [&:checked_+_label_svg]:block" name="VehicleType" type="radio"
                           value="car" />
 
